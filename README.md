@@ -4,7 +4,7 @@
 
 ### Ex1
 ```bash
-$ spark-submit ex1.py
+$ spark-submit ex1.py {path to file}
 ```
 ### Ex2
 ```bash
